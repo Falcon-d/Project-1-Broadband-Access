@@ -1,4 +1,4 @@
-State,County,Year,ID,Broadband (%),CFIPS
+State,County,Year,GEO ID,Broadband (%),CFIPS
 Alabama,Autauga County,2017,0500000US01001,0.61818182,1001
 Alabama,Autauga County,2018,0500000US01001,0.78899997,1001
 Alabama,Baldwin County,2007,0500000US01003,0.58852088,1003

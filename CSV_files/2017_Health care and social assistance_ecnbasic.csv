@@ -1,4 +1,4 @@
-NAIC2017 Label,Number Employed,"County, State",GEO ID,Broadband (%),Year
+NAICS2017 Label,Number Employed,"County, State",GEO ID,Broadband (%),Year
 Health care and social assistance,706,"Benton County, Tennessee",0500000US47005,0.56153846,2017
 Health care and social assistance,1430,"Warren County, Tennessee",0500000US47177,0.56739813,2017
 Health care and social assistance,14110,"Washington County, Tennessee",0500000US47179,0.85897809,2017

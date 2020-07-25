@@ -1,4 +1,4 @@
-NAIC2017 Label,Number Employed,"County, State",GEO ID,Broadband (%),Year
+NAICS2017 Label,Number Employed,"County, State",GEO ID,Broadband (%),Year
 "Arts, entertainment, and recreation",3,"Benton County, Tennessee",0500000US47005,0.56153846,2017
 "Arts, entertainment, and recreation",25,"Warren County, Tennessee",0500000US47177,0.56739813,2017
 "Arts, entertainment, and recreation",332,"Washington County, Tennessee",0500000US47179,0.85897809,2017

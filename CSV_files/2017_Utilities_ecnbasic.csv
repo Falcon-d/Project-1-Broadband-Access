@@ -8,10 +8,10 @@ Utilities,0,"Wilbarger County, Texas",0500000US48487,0.57731962,2017
 Utilities,0,"Martin County, Texas",0500000US48317,0.65384614,2017
 Utilities,0,"Reagan County, Texas",0500000US48383,0.83333337,2017
 Utilities,81,"Hale County, Texas",0500000US48189,0.5407725,2017
-Utilities,0,"San Jacinto County, Texas",0500000US48407,0.4057143,2017
 Utilities,0,"Shelby County, Texas",0500000US48419,0.5433526,2017
 Utilities,16,"Red River County, Texas",0500000US48387,0.5,2017
 Utilities,0,"Runnels County, Texas",0500000US48399,0.52808988,2017
+Utilities,0,"San Jacinto County, Texas",0500000US48407,0.4057143,2017
 Utilities,0,"Tom Green County, Texas",0500000US48451,0.79306602,2017
 Utilities,0,"Upshur County, Texas",0500000US48459,0.5398229999999999,2017
 Utilities,0,"Victoria County, Texas",0500000US48469,0.70028651,2017
@@ -56,9 +56,9 @@ Utilities,754,"Hidalgo County, Texas",0500000US48215,0.69939774,2017
 Utilities,287,"Smith County, Texas",0500000US48423,0.7832492,2017
 Utilities,0,"Somervell County, Texas",0500000US48425,0.64516127,2017
 Utilities,12,"Crockett County, Texas",0500000US48105,0.55000001,2017
-Utilities,0,"Leon County, Texas",0500000US48289,0.55199999,2017
 Utilities,0,"Hardin County, Texas",0500000US48199,0.54034227,2017
 Utilities,0,"Howard County, Texas",0500000US48227,0.55844152,2017
+Utilities,0,"Leon County, Texas",0500000US48289,0.55199999,2017
 Utilities,20,"Montague County, Texas",0500000US48337,0.61988306,2017
 Utilities,0,"Newton County, Texas",0500000US48351,0.50588232,2017
 Utilities,49,"Panola County, Texas",0500000US48365,0.58048785,2017
@@ -84,8 +84,8 @@ Utilities,0,"Sherburne County, Minnesota",0500000US27141,0.90823805,2017
 Utilities,382,"Itasca County, Minnesota",0500000US27061,0.59142858,2017
 Utilities,0,"Ramsey County, Minnesota",0500000US27123,0.89391464,2017
 Utilities,16,"Cottonwood County, Minnesota",0500000US27033,0.63157892,2017
-Utilities,0,"Pipestone County, Minnesota",0500000US27117,0.71428573,2017
 Utilities,123,"Scott County, Minnesota",0500000US27139,0.94295663,2017
+Utilities,0,"Pipestone County, Minnesota",0500000US27117,0.71428573,2017
 Utilities,0,"Crow Wing County, Minnesota",0500000US27035,0.57142854,2017
 Utilities,0,"Wright County, Minnesota",0500000US27171,0.90250242,2017
 Utilities,71,"Douglas County, Minnesota",0500000US27041,0.58100557,2017
@@ -117,8 +117,8 @@ Utilities,163,"Grimes County, Texas",0500000US48185,0.45145631,2017
 Utilities,1454,"Travis County, Texas",0500000US48453,0.87222868,2017
 Utilities,900,"Collin County, Texas",0500000US48085,0.93116724,2017
 Utilities,98,"Angelina County, Texas",0500000US48005,0.85792398,2017
-Utilities,76,"Erath County, Texas",0500000US48143,0.54887217,2017
 Utilities,175,"Hays County, Texas",0500000US48209,0.8602581,2017
+Utilities,76,"Erath County, Texas",0500000US48143,0.54887217,2017
 Utilities,0,"Brazoria County, Texas",0500000US48039,0.87853181,2017
 Utilities,238,"Atascosa County, Texas",0500000US48013,0.59558821,2017
 Utilities,36,"Coleman County, Texas",0500000US48083,0.58571428,2017
@@ -385,9 +385,9 @@ Utilities,0,"Addison County, Vermont",0500000US50001,0.46938774,2017
 Utilities,0,"Caledonia County, Vermont",0500000US50005,0.49809888,2017
 Utilities,123,"Windham County, Vermont",0500000US50025,0.40920097,2017
 Utilities,0,"Bennington County, Vermont",0500000US50003,0.472,2017
-Utilities,0,"Tooele County, Utah",0500000US49045,0.60047847,2017
 Utilities,88,"Washington County, Vermont",0500000US50023,0.46820807,2017
 Utilities,0,"Millard County, Utah",0500000US49027,0.51020408,2017
+Utilities,0,"Tooele County, Utah",0500000US49045,0.60047847,2017
 Utilities,78,"Washington County, Utah",0500000US49053,0.86639005,2017
 Utilities,0,"Summit County, Utah",0500000US49043,0.48082596,2017
 Utilities,0,"Beaver County, Utah",0500000US49001,0.55319148,2017
@@ -446,9 +446,9 @@ Utilities,0,"Sutter County, California",0500000US06101,0.8609825999999999,2017
 Utilities,0,"San Mateo County, California",0500000US06081,0.93432617,2017
 Utilities,0,"Tuolumne County, California",0500000US06109,0.48873237,2017
 Utilities,287,"San Joaquin County, California",0500000US06077,0.86328566,2017
-Utilities,2270,"Denver County, Colorado",0500000US08031,0.87985694,2017
 Utilities,0,"Amador County, California",0500000US06005,0.53861386,2017
 Utilities,0,"Archuleta County, Colorado",0500000US08007,0.52941179,2017
+Utilities,2270,"Denver County, Colorado",0500000US08031,0.87985694,2017
 Utilities,62,"Chaffee County, Colorado",0500000US08015,0.59235668,2017
 Utilities,49,"Kit Carson County, Colorado",0500000US08063,0.48936167,2017
 Utilities,187,"Garfield County, Colorado",0500000US08045,0.43854749,2017
@@ -485,10 +485,10 @@ Utilities,95,"Wayne County, Pennsylvania",0500000US42127,0.48741418,2017
 Utilities,0,"Monroe County, Pennsylvania",0500000US42089,0.87377447,2017
 Utilities,0,"Huntingdon County, Pennsylvania",0500000US42061,0.45098037,2017
 Utilities,600,"Washington County, Pennsylvania",0500000US42125,0.88226759,2017
-Utilities,0,"Cumberland County, Pennsylvania",0500000US42041,0.88434428,2017
 Utilities,1908,"Philadelphia County, Pennsylvania",0500000US42101,0.79756081,2017
 Utilities,1634,"York County, Pennsylvania",0500000US42133,0.85968226,2017
 Utilities,956,"Indiana County, Pennsylvania",0500000US42063,0.75126004,2017
+Utilities,0,"Cumberland County, Pennsylvania",0500000US42041,0.88434428,2017
 Utilities,3448,"Allegheny County, Pennsylvania",0500000US42003,0.88169867,2017
 Utilities,0,"Westmoreland County, Pennsylvania",0500000US42129,0.86356932,2017
 Utilities,170,"Blair County, Pennsylvania",0500000US42013,0.82965714,2017
@@ -600,9 +600,9 @@ Utilities,92,"Highlands County, Florida",0500000US12055,0.7315653,2017
 Utilities,0,"Suwannee County, Florida",0500000US12121,0.58630949,2017
 Utilities,0,"Alachua County, Florida",0500000US12001,0.86491072,2017
 Utilities,81,"Charlotte County, Florida",0500000US12015,0.89512217,2017
-Utilities,0,"Putnam County, Florida",0500000US12107,0.7155292,2017
 Utilities,0,"Columbia County, Florida",0500000US12023,0.8660869000000001,2017
 Utilities,0,"Martin County, Florida",0500000US12085,0.82779104,2017
+Utilities,0,"Putnam County, Florida",0500000US12107,0.7155292,2017
 Utilities,0,"Sarasota County, Florida",0500000US12115,0.87458497,2017
 Utilities,0,"Manatee County, Florida",0500000US12081,0.82228369,2017
 Utilities,0,"Citrus County, Florida",0500000US12017,0.85442293,2017
@@ -785,8 +785,8 @@ Utilities,0,"Glynn County, Georgia",0500000US13127,0.83773977,2017
 Utilities,1178,"DeKalb County, Georgia",0500000US13089,0.85978997,2017
 Utilities,0,"Jones County, Georgia",0500000US13169,0.55725187,2017
 Utilities,0,"Burke County, Georgia",0500000US13033,0.55813956,2017
-Utilities,0,"Forsyth County, Georgia",0500000US13117,0.93506265,2017
 Utilities,444,"Floyd County, Georgia",0500000US13115,0.8601863999999999,2017
+Utilities,0,"Forsyth County, Georgia",0500000US13117,0.93506265,2017
 Utilities,121,"Hart County, Georgia",0500000US13147,0.54589373,2017
 Utilities,179,"Lowndes County, Georgia",0500000US13185,0.77494514,2017
 Utilities,0,"Monroe County, Georgia",0500000US13207,0.59148937,2017
@@ -1097,10 +1097,10 @@ Utilities,33,"Franklin County, Iowa",0500000US19069,0.66346151,2017
 Utilities,45,"Carroll County, Iowa",0500000US19027,0.65853661,2017
 Utilities,0,"Durham County, North Carolina",0500000US37063,0.86599314,2017
 Utilities,0,"Davidson County, North Carolina",0500000US37057,0.86283231,2017
-Utilities,0,"New Hanover County, North Carolina",0500000US37129,0.86448842,2017
 Utilities,24,"Duplin County, North Carolina",0500000US37061,0.5234375,2017
 Utilities,0,"Hertford County, North Carolina",0500000US37091,0.43888891,2017
 Utilities,106,"Lee County, North Carolina",0500000US37105,0.55829597,2017
+Utilities,0,"New Hanover County, North Carolina",0500000US37129,0.86448842,2017
 Utilities,114,"Halifax County, North Carolina",0500000US37083,0.52859956,2017
 Utilities,0,"Alamance County, North Carolina",0500000US37001,0.82633162,2017
 Utilities,82,"Stark County, North Dakota",0500000US38089,0.49494949,2017
@@ -1165,10 +1165,10 @@ Utilities,147,"Richland County, Ohio",0500000US39139,0.7931176999999999,2017
 Utilities,76,"Knox County, Ohio",0500000US39083,0.58896798,2017
 Utilities,261,"Licking County, Ohio",0500000US39089,0.88073558,2017
 Utilities,45,"Carroll County, Ohio",0500000US39019,0.61538458,2017
-Utilities,0,"Defiance County, Ohio",0500000US39039,0.66312999,2017
 Utilities,106,"Hancock County, Ohio",0500000US39063,0.87646043,2017
 Utilities,178,"Clermont County, Ohio",0500000US39025,0.86635101,2017
 Utilities,285,"Fairfield County, Ohio",0500000US39045,0.89895546,2017
+Utilities,0,"Defiance County, Ohio",0500000US39039,0.66312999,2017
 Utilities,72,"Highland County, Ohio",0500000US39071,0.56188118,2017
 Utilities,859,"Jefferson County, Ohio",0500000US39081,0.80760336,2017
 Utilities,0,"Belmont County, Ohio",0500000US39013,0.8068831,2017
